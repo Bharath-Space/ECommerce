@@ -23,7 +23,7 @@
                         <suiteXmlFile>master.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
-            </plugin> <!-- ✅ You missed this closing tag -->
+            </plugin> <!-- ✅
         </plugins>
     </pluginManagement>
 </build>
